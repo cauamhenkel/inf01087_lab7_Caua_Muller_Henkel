@@ -7,3 +7,4 @@ Disciplina: INF01087
 Estou atualmente cursando Ciência da Computação na UFRGS
 
 ## Alterando outro titulo como teste
+Ele resolveu sozinho o conflito (mesmo que não corretamente)
