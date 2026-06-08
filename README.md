@@ -1,4 +1,4 @@
-# Laboratório de GitHub
+# Alterando o título
 Nome: Cauã Muller Henkel
 Curso: Ciência da Computação
 Disciplina: INF01087
